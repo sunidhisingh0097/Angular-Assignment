@@ -1,0 +1,3 @@
+[submodule "ng-freshers"]
+	path = ng-freshers
+	url = https://github.com/innovation-stack/ng-freshers
