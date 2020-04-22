@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class Assignment1Component {
   text: string;
+  
   textMessage(value: string) {
     this.text = value
   }
